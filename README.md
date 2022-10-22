@@ -1,0 +1,1 @@
+This script utilizes NinjaOne/NinjaRMM's legacy API via the "py-ninjarmm-api-client" library, in order to download information about every device in your Ninja environment, while respecting their API limits. It will download at a rate of roughly 10 devices per minute. Requires a NinjaRMM Legacy API ID and Key.
